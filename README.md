@@ -4,7 +4,7 @@ An intuitive, offline-capable web application for managing study notes and organ
 
 ## Live Demo
 
-You can access the live version of the app here: <a href="https://shhovon.github.io/Offline-Study-Notes-App/" target="_blank">Offline Study Notes App</a>
+You can access the live version of the app here: [Offline Study Notes App](https://shhovon.github.io/Offline-Study-Notes-App/)
 
 ## Features
 
@@ -67,4 +67,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Created By
 
-<a href="https://shovonroy.w3spaces.com/" target="_blank">Shovon Roy</a>
+[Shovon Roy](https://shovonroy.w3spaces.com/)
