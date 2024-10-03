@@ -67,4 +67,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Created By
 
-<a href="[https://shhovon.github.io/Offline-Study-Notes-App/](https://shovonroy.w3spaces.com/)" target="_blank">Shovon Roy</a>
+<a href="https://shovonroy.w3spaces.com/" target="_blank">Shovon Roy</a>
